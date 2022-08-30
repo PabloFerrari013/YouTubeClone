@@ -468,35 +468,35 @@ function Home() {
               <Divider />
 
               <List>
-                <ListItem li className={classes.listItemBottom}>
+                <ListItem className={classes.listItemBottom}>
                   <ListItemText
                     classes={{ primary: classes.listItemTextBottom }}
                     primary="Sobre Imprensa"
                   />
                 </ListItem>
 
-                <ListItem li className={classes.listItemBottom}>
+                <ListItem className={classes.listItemBottom}>
                   <ListItemText
                     classes={{ primary: classes.listItemTextBottom }}
                     primary="Direitos autorais"
                   />
                 </ListItem>
 
-                <ListItem li className={classes.listItemBottom}>
+                <ListItem className={classes.listItemBottom}>
                   <ListItemText
                     classes={{ primary: classes.listItemTextBottom }}
                     primary="Entre em contato"
                   />
                 </ListItem>
 
-                <ListItem li className={classes.listItemBottom}>
+                <ListItem className={classes.listItemBottom}>
                   <ListItemText
                     classes={{ primary: classes.listItemTextBottom }}
                     primary="Criadores de conteúdo"
                   />
                 </ListItem>
 
-                <ListItem li className={classes.listItemBottom}>
+                <ListItem className={classes.listItemBottom}>
                   <ListItemText
                     classes={{ primary: classes.listItemTextBottom }}
                     primary="Desenvolvedores"
@@ -505,28 +505,28 @@ function Home() {
               </List>
 
               <List>
-                <ListItem li className={classes.listItemBottom}>
+                <ListItem className={classes.listItemBottom}>
                   <ListItemText
                     classes={{ primary: classes.listItemTextBottom }}
                     primary="Termos Privacidade"
                   />
                 </ListItem>
 
-                <ListItem li className={classes.listItemBottom}>
+                <ListItem className={classes.listItemBottom}>
                   <ListItemText
                     classes={{ primary: classes.listItemTextBottom }}
                     primary="Política e segurança"
                   />
                 </ListItem>
 
-                <ListItem li className={classes.listItemBottom}>
+                <ListItem className={classes.listItemBottom}>
                   <ListItemText
                     classes={{ primary: classes.listItemTextBottom }}
                     primary="Como funciona o YouTube"
                   />
                 </ListItem>
 
-                <ListItem li className={classes.listItemBottom}>
+                <ListItem className={classes.listItemBottom}>
                   <ListItemText
                     classes={{ primary: classes.listItemTextBottom }}
                     primary="Testar os novos recursos"

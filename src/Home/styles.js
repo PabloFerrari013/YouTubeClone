@@ -2,6 +2,7 @@ import { alpha, makeStyles } from '@material-ui/core'
 
 const useStyles = makeStyles(theme => ({
   root: {
+    height: 'min(100vh)',
     backgroundColor: theme.palette.background.dark
   },
   appBar: {

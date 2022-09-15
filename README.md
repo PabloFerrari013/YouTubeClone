@@ -32,7 +32,7 @@ $ yarn
 # Start the project
 yarn start
 ```
-The app is available in your browser at http://localhost:3000/
+The app is available in your browser at http://localhost:8080/
 
 ---
 Made with ❤️ by Pablo Ferrari 🤟🏽 [Linkedin](https://www.linkedin.com/in/pablo-ferrari-32bb7a1a8/)
